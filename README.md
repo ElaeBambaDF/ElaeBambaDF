@@ -1,6 +1,6 @@
 Olá Meu povo!
-Me chamo Luciana 
-Sou estudante de Analise e desenvolvimento de sistemas
+Eu me chamo Luciana 
+Sou estudante de Analise e desenvolvimento de sistemas.
 Mais perdida que tudo nesta vida.
 Me ajudem!
 
