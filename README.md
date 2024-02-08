@@ -1,7 +1,7 @@
 Olá Meu povo!
 Me chamo Luciana 
 Sou estudante de Analise e desenvolvimento de sistemas
-Mas perdida que tudo nesta vida.
+Mais perdida que tudo nesta vida.
 Me ajudem!
 
 
